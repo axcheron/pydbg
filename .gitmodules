@@ -1,0 +1,3 @@
+[submodule "pydbg/pydasm"]
+	path = pydbg/pydasm
+	url = https://github.com/axcheron/pydasm.git
